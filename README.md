@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdiDevID&theme=chartreuse-dark&show_icons=true)
 
 
 
@@ -20,7 +19,8 @@
 
 
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 👋 &nbsp;Hey there! I'm Aditya
 
@@ -34,7 +34,7 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -62,8 +62,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArdiDevID&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArdiDevID&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
