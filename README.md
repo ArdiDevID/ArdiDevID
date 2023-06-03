@@ -17,7 +17,7 @@
 
 
 
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" height="100%" align="center" />
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="50px" height="50px" align="center" />
 
 
 
