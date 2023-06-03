@@ -23,7 +23,7 @@
 
 ## 👋 &nbsp;Hey there! I'm ArdiDev
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp; Tentang Saya
 
 💡 &nbsp;Saya suka menjelajahi teknologi baru dan mengembangkan solusi perangkat lunak dan peretasan cepat.\ 
 
@@ -41,7 +41,7 @@
 </p>
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Keahlian
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -75,7 +75,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp; Hubungi Saya
 
 <p align="center">
 <a href="https://Wa.me/6285831534240"><img height= "20px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
