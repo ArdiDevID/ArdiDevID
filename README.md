@@ -20,7 +20,7 @@
 
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" />
+<img alt="Night Coding" height="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" />
 
 ## 👋 &nbsp;Hey there! I'm ArdiDev
 
