@@ -17,18 +17,8 @@
 
 
 
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" max-width="50%" height="auto" align="center" />
 
-<picture>
-
-  <source media="(max-width:1000px)">
-
-  <source media="(max-width:600px)">
-
-  <source media="(max-width:400px)">
-
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" />
-
-</picture>
 
 
 ## 👋 &nbsp;Hey there! I'm ArdiDev
