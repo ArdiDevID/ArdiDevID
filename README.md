@@ -80,4 +80,5 @@
 <a href="https://www.blogspot.com/"><img height= "20px" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 </p>
 
-<img src="https://staging.shields.io/badge/%C2%A9%20Copyright%20-ARDI%20DEV-blue" align="center" />
+<a href="https://Wa.me/6285831534240">
+<img src="https://staging.shields.io/badge/%C2%A9%20Copyright%20-ARDI%20DEV-blue" align="center" /></a>
