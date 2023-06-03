@@ -65,7 +65,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArdiDevID&layout=compact&exclude_lang=java+r&theme=vue-dark" />
   <img src="https://github-contributor-stats.vercel.app/api?username=ArdiDevID&limit=10" />
   <img src="https://streak-stats.demolab.com/?user=ArdiDevID&theme=default" />
-  <img src"https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </a>
 </p>
 
