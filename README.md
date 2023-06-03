@@ -34,13 +34,13 @@
 🌱 &nbsp;Saya berada di jalur yang tepat untuk mempelajari lebih lanjut tentang Kecerdasan Buatan, Desain Sistem, dan Arsitektur Awan.
 
 
-✍️ &nbsp;Di waktu luang saya, saya mengejar Desain Grafis dan Menulis Blog sebagai hobi / pekerjaan sampingan.\
+✍️ &nbsp;Di waktu luang saya, saya mengejar Desain Grafis dan Menulis Blog sebagai hobi / pekerjaan sampingan.
 
 
-💬 &nbsp;Jangan ragu untuk menghubungi saya untuk konsultasi dan sukarelawan pro bono, atau hanya untuk diskusi yang menarik.\
+💬 &nbsp;Jangan ragu untuk menghubungi saya untuk konsultasi dan sukarelawan programmer, atau hanya untuk diskusi yang menarik.
 
 
-✉️ &nbsp;Anda dapat mengirimi saya email di ardidev@gmail.com! Saya akan mencoba untuk merespon secepat saya bisa.\
+✉️ &nbsp;Anda dapat mengirimi saya email di ardidev@gmail.com! Saya akan mencoba untuk merespon secepat saya bisa.
 
 
 📄 &nbsp;Silakan lihat saya [Sosial media](https://Wa.me/6285831534240) untuk lebih jelasnya tentang saya. Saya terbuka untuk umpan balik dan saran!
