@@ -43,7 +43,7 @@
 ✉️ &nbsp;Anda dapat mengirimi saya email di ardidev@gmail.com! Saya akan mencoba untuk merespon secepat saya bisa.
 
 
-📄 &nbsp;Silakan lihat saya [Sosial media](https://Wa.me/6285831534240) untuk lebih jelasnya tentang saya. Saya terbuka untuk umpan balik dan saran!
+📄 &nbsp;Silakan lihat saya di [Sosial media](https://Wa.me/6285831534240) untuk lebih jelasnya tentang saya. Saya terbuka untuk umpan balik dan saran!
 </p>
 
 
