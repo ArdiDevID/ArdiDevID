@@ -21,7 +21,7 @@
 
 
 
-## 👋 &nbsp;Hey there! I'm ArdiDev
+## 👋 &nbsp;Halo Bang! Saya ArdiDev
 
 ### 👨🏻‍💻 &nbsp; Tentang Saya
 
