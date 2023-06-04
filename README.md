@@ -18,10 +18,11 @@
 
 
   <img align="center" alt="Night Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="50%" height="50%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=👋+HALLO+BANG;I+am+ARDI+DEV;My+Age+17+TH;My+Hobby+Sleeping+And+Coding;I+am+student+in+grade+11+SMK;From+Riau" />
 
 
 
-## 👋 &nbsp;Halo Bang! Saya ArdiDev
+
 
 ### 👨🏻‍💻 &nbsp; Tentang Saya
 
